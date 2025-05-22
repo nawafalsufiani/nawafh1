@@ -52,7 +52,7 @@ I'm passionate about combining **technical systems** with **artistic design** to
 
 ### 📫 Let’s Connect
 
-- 🌐 Portfolio: [YourWebsite.com]  
+- 🌐 Portfolio: [github.com/nawafalsufiani/nawafh1](https://github.com/nawafalsufiani/nawafh1)
 - 💼 LinkedIn: [linkedin.com/in/nawafalsufiani](https://www.linkedin.com/in/nawafalsufiani)  
 - 🧠 GitHub Projects: Check out my pinned repositories below!
 
